@@ -9,4 +9,4 @@ React Icons: [react icons](https://react-icons.github.io/react-icons/)
 ```
 npm install react-icons --save
 ```
-- Project us based on conditional rendering.
+- Project is based on conditional rendering.
